@@ -1,5 +1,6 @@
 # Хань Фэн Яа Юнь（汉风雅韵）
 ## содержание  
+！[韵](https://github.com/JiangWenchen/china-club/blob/main/cloud/1c378d6c27aaa75633ae563430999f9.jpg?raw=true)
 - **Обзор**
   - О названии
   - Первоначальное намерение открыть магазин
