@@ -55,4 +55,4 @@
 ### **Контекстная диаграмма интернет-магазина**
 Следующая диаграмма контекста системы описывает ключевых пользователей системы и их внешние зависимости:
 
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="[cloud/контекстной диаграмме.png](https://github.com/JiangWenchen/china-club/blob/main/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5.png)">
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5.png)">
