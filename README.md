@@ -67,4 +67,6 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 ### **Истории пользователей（User Story）**  
 Ниже представлены истории пользователей с точки зрения потребителей, продавцов и логистических компаний соответственно. Благодаря пользовательским историям можно лучше понять потребности пользователей с каждой точки зрения и преобразовать их в реализуемые функции.  
 
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/3a2080961c73c6bfba3d4aeff475c96c5f945fef/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B-%E6%B6%88%E8%B4%B9%E8%80%85.png">
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/3a2080961c73c6bfba3d4aeff475c96c5f945fef/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B-%E6%B6%88%E8%B4%B9%E8%80%85.png">  
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/2c451e776d428eb171c6efdf4db53ad6ec27102e/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B-%E5%95%86%E5%AE%B6.png">  
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/2c451e776d428eb171c6efdf4db53ad6ec27102e/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B-%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8.png">  
