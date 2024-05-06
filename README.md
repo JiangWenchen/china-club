@@ -61,4 +61,5 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 ### **Прямые пользователи интернет-магазина**
 На следующей UML-диаграмме изображены непосредственные пользователи интернет-магазина:
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.png>
+
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.png">
