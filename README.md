@@ -62,4 +62,8 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 ### **Прямые пользователи интернет-магазина**
 На следующей UML-диаграмме изображены непосредственные пользователи интернет-магазина:
 
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.png">
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.png">  
+
+### **Истории пользователей（User Story）**  
+Ниже представлены истории пользователей с точки зрения потребителей, продавцов и логистических компаний соответственно. Благодаря пользовательским историям можно лучше понять потребности пользователей с каждой точки зрения и преобразовать их в реализуемые функции.
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/3a2080961c73c6bfba3d4aeff475c96c5f945fef/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B-%E6%B6%88%E8%B4%B9%E8%80%85.png">
