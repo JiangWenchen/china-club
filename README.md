@@ -45,7 +45,7 @@
 > Участники: потребители, аналитики, маркетологи.
 
 > Материалы: Разноцветные стикеры разных форм и большая поверхность для наклеивания
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/assets/165254698/70bd7715-1222-4b71-a5a4-afab450d7067">
+
 
 https://miro.com/app/board/uXjVKXw6SUQ=/
 
