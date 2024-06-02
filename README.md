@@ -113,4 +113,5 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
   ### **Диаграмма классов** ###
   Ниже приведена диаграмма класса интернет-магазина, показывающая взаимосвязь между покупателями, продавцами, товарами и заказами.
+  
   <img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%E7%B1%BB%E5%9B%BE.jpg">
