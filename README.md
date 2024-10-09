@@ -187,4 +187,8 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 2.Container
 
-<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/%E5%AE%B9%E5%99%A8%E5%9B%BE.png">
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/%E5%AE%B9%E5%99%A8%E5%9B%BE.png">  
+
+3.Component  
+
+<img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%E5%AE%B9%E5%99%A8%E5%9B%BE.png">  
