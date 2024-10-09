@@ -148,6 +148,10 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 <img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/B2C%E6%A8%A1%E5%BC%8FIDEF0%E5%9B%BE.png">
 
+
+  ### **Диаграмма переходов состояний** ###
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/c1865196-2b08-4ede-b881-d11b3068803c">
+
   ### **Атрибуты качества** ###
   Внешние атрибуты качества
 1. Доступность
