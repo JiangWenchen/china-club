@@ -203,4 +203,9 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 <img width="541" alt="525955bd06eaf6b5c4897d02ebc1c27" src="https://github.com/JiangWenchen/china-club/blob/main/cloud/%E5%AE%B9%E5%99%A8%E5%9B%BE2.png">  
 
-4.Code diagram
+4.Communication
+ - Система оповещения: уведомление пользователей о статусе заказа, акциях и т. д. по электронной почте или SMS.
+ - Обмен информацией в социальных сетях: пользователи могут делиться ссылками на товары в социальных сетях.
+ - Оценка пользователей: пользователи могут оценивать и оставлять отзывы о приобретенных товарах.
+   <img width="282" alt="image" src="https://github.com/user-attachments/assets/469011f3-08f4-4d00-aa38-e62d942dcae5">
+
