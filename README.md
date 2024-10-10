@@ -152,6 +152,10 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
   ### **Диаграмма переходов состояний** ###
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/c1865196-2b08-4ede-b881-d11b3068803c">
 
+ ### **Ограничения полей базы данных** ###
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/d33f8aad-f460-42e8-8eef-d26e72508f5e">
+
+
   ### **Атрибуты качества** ###
   Внешние атрибуты качества
 1. Доступность
