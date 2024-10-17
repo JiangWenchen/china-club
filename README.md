@@ -213,6 +213,8 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
  - Оценка пользователей: пользователи могут оценивать и оставлять отзывы о приобретенных товарах.
  <img width="286" alt="image" src="https://github.com/user-attachments/assets/84557e48-5e20-4db7-8724-c0fd57a7c90d">
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/8fe2fa25-d911-4c6c-8867-1b872e95e76f">
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/8fa7bbc0-c7c2-4719-a8f0-217d6713b10f">
+
 
 
 
