@@ -212,7 +212,8 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
  - Обмен информацией в социальных сетях: пользователи могут делиться ссылками на товары в социальных сетях.
  - Оценка пользователей: пользователи могут оценивать и оставлять отзывы о приобретенных товарах.
  <img width="286" alt="image" src="https://github.com/user-attachments/assets/84557e48-5e20-4db7-8724-c0fd57a7c90d">
- <img width="936" alt="image" src="https://github.com/user-attachments/assets/39471362-b72c-4285-b448-ef4749ce9449">
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/8fe2fa25-d911-4c6c-8867-1b872e95e76f">
+
 
 
 
