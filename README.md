@@ -215,6 +215,17 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 <img width="921" alt="image" src="https://github.com/user-attachments/assets/8fa7bbc0-c7c2-4719-a8f0-217d6713b10f">
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/f6fad5da-d0cb-4aad-8aa0-e7b32086dc6c">
 
+### **Диаграмма вариантов использования** ###
+<img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/a5cad1217c92974c052040db5a3ebb9.jpg">
+
+### **Описание вариантов использования** ###
+<img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/87f260b80bce8cbcee5c836d589c22d.jpg">
+
+### **Диаграмма классов** ###
+<img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/9cbb3b7d656466a99c61bd5b3b31598.png">
+
+### ** Диаграмма деятельности** ###
+<img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/348656ff95b8ecbbbcb28335d60b7d2.jpg">
 
 
 
