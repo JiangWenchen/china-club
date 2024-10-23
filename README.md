@@ -224,7 +224,7 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 ### **Диаграмма классов** ###
 <img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/9cbb3b7d656466a99c61bd5b3b31598.png">
 
-### ** Диаграмма деятельности** ###
+### **Диаграмма деятельности** ###
 <img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/348656ff95b8ecbbbcb28335d60b7d2.jpg">
 
 
