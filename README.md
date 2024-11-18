@@ -228,6 +228,7 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 <img width="721" alt="image" src="https://github.com/JiangWenchen/china-club/blob/main/348656ff95b8ecbbbcb28335d60b7d2.jpg">
 ![3a86b8266e7cf686e65595bf9cc615f](https://github.com/user-attachments/assets/d2852edd-c35b-4753-8b04-a9b2c08a8d76)
 
-
+### **Раскадровки** ###  
+https://miro.com/app/board/uXjVLDnEUaA=/
 
 
