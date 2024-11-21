@@ -233,8 +233,10 @@ https://www.processon.com/diagraming/6736261a5b61580d258b5cf1
 
 ### **Раскадровки** ###  
 https://miro.com/app/board/uXjVLDnEUaA=/
-
+### **Платежные системы (передаваемые данные，Получаемые данные)** ###  
 <img width="709" alt="0dd6e949550e203f7751357fb6ee4fd" src="https://github.com/user-attachments/assets/caec3773-3ea4-4614-b21a-89bbf20bd5dd">
 <img width="685" alt="da93044dd9ad702b6e145a2bf1eef5c" src="https://github.com/user-attachments/assets/a2b1129f-3880-4b8e-bd68-0e9b1fe9e3fb">
+
+### **Использование HTTPS для шифрования данных при передаче** ###  
 <img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="https://github.com/user-attachments/assets/bc3aaa8d-848f-4160-8f28-95ec05b17383">
 
