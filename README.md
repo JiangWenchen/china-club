@@ -231,7 +231,6 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 ### **Диаграмма классов** ###
 https://www.processon.com/diagraming/6736261a5b61580d258b5cf1
-<img width="809" alt="fa2e86e0decf13cec8f14c0b9aaebe1" src="https://github.com/user-attachments/assets/4b5187cf-7b5e-4fd9-b8de-5111a059141c">
 
 ### **Раскадровки** ###  
 https://miro.com/app/board/uXjVLDnEUaA=/
