@@ -231,9 +231,13 @@ https://miro.com/app/board/uXjVKXw6SUQ=/
 
 ### **Диаграмма классов** ###
 https://www.processon.com/diagraming/6736261a5b61580d258b5cf1
+<img width="809" alt="fa2e86e0decf13cec8f14c0b9aaebe1" src="https://github.com/user-attachments/assets/4b5187cf-7b5e-4fd9-b8de-5111a059141c">
 
 ### **Раскадровки** ###  
 https://miro.com/app/board/uXjVLDnEUaA=/
+<img width="809" alt="fa2e86e0decf13cec8f14c0b9aaebe1" src="https://github.com/user-attachments/assets/4b5187cf-7b5e-4fd9-b8de-5111a059141c">
+<img width="593" alt="8339ee76dd10148b2a6a1703b000a90" src="https://github.com/user-attachments/assets/28b5f866-bcd1-4e42-8446-513ff95c90f6">
+
 ### **Платежные системы (передаваемые данные，Получаемые данные)** ###  
 <img width="709" alt="0dd6e949550e203f7751357fb6ee4fd" src="https://github.com/user-attachments/assets/caec3773-3ea4-4614-b21a-89bbf20bd5dd">
 <img width="685" alt="da93044dd9ad702b6e145a2bf1eef5c" src="https://github.com/user-attachments/assets/a2b1129f-3880-4b8e-bd68-0e9b1fe9e3fb">
