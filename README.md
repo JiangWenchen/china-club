@@ -244,3 +244,6 @@ https://miro.com/app/board/uXjVLDnEUaA=/
 ### **Использование HTTPS для шифрования данных при передаче** ###  
 <img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="https://github.com/user-attachments/assets/bc3aaa8d-848f-4160-8f28-95ec05b17383">
 
+
+### **Диаграмма сущность-связь** ###  
+<img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="cloud/ERD.png">
