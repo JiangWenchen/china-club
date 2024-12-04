@@ -246,4 +246,8 @@ https://miro.com/app/board/uXjVLDnEUaA=/
 
 
 ### **Диаграмма сущность-связь** ###  
-<img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="cloud/ERD.png">
+<img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="cloud/ERD.png">  
+
+На основе этой диаграммы отношений используйте редактор данных Mysql для подключения к базе данных.  
+
+<img width="380" alt="23063a002f1b7e6c0a494af8461f4c0" src="cloud/ALL.png">   
